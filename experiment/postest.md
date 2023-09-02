@@ -1,24 +1,24 @@
 ## Post test
 <br>
-Q1) Which of the following HTML attributes is used to define inline styles? <br>
-a. Id <br>
-b. Class <br>
-c. <b>Style</b> <br>
-d. Styles <br>
+Q1) Which of the following input type lets you enter phone number? <br>
+a. text <br>
+b. number <br>
+c. <b>tel</b> <br>
+d. date <br>
 <br>
 <br>
-Q2) The tag used in head tag for internal styling is? <br>
-a. <b>style tag </b> <br>
-b. body tag <br>
-c. img tag <br>
-d. a tag <br>
+Q2) Which of the following buttons is used to reset the values to initial values? <br>
+a. submit <br>
+b. <b>reset</b> <br>
+c. initial_value <br>
+d. None of these <br>
 <br>
 <br>
-Q3) Where in an HTML document is the correct place to refer to an external style sheet? <br>
-a. In < body> section <br>
-b. <b>In < head> section</b> <br>
-c. At the end of the document <br>
-d. None of the above <br>
+Q3) Which of the following characters are checked for input type email? <br>
+a. . <br>
+b. <b>@ </b> <br>
+c. ! <br>
+d. # <br>
 <br>
 
 
